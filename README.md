@@ -1,8 +1,9 @@
 # multi_files_uploader_class
 Multi Files uploader is two classes to upload file or more with on input file html, with validation of the file type, size and extention;then  move  uploaded files.
 
-  # note 
+  # note
     this repository contain two class:
+    
     1st uploader{} in upload.class.php file
       #the real owner is The software engineer "Ahmed Syam"
       @contact him :engsyam@gmail.com
